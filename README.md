@@ -95,21 +95,21 @@ contact: [LinkedIn] · [Email] · [TryHackMe] · [HackTheBox]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karthiiio6&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" alt="Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiiio6&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2" alt="Top Langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Karthiii06&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" alt="Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiii06&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2" alt="Top Langs" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Karthiiio6&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=FF79C6&fire=FFB86C&currStreakLabel=8BE9FD" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Karthiii06&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=FF79C6&fire=FFB86C&currStreakLabel=8BE9FD" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karthiiio6&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Karthiii06&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophy"/>
 
 <br/><br/>
 
 <!-- Contribution snake — requires the workflow below to generate this asset -->
-<img src="https://raw.githubusercontent.com/Karthiiio6/Karthiiio6/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Karthiii06/Karthiii06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -134,7 +134,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake
         with:
-          github_user_name: Karthiiio6
+          github_user_name: Karthiii06
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark,color:50FA7B,dot:BD93F9
       - uses: crazy-max/ghaction-github-pages@v4
@@ -196,12 +196,12 @@ AES-256-GCM + RSA-4096 · PBKDF2 · attack resistance testing (bit-flipping, pad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiiio6&repo=VulnScan&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiiio6&repo=CipherVault-Elite&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiiio6&repo=Splunk-Detection-Rules&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiiio6&repo=SOC-Automation-Scripts&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiiio6&repo=CTF-Writeups&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiiio6&repo=Networking-Security-Labs&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=VulnScan&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=CipherVault-Elite&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=Splunk-Detection-Rules&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=SOC-Automation-Scripts&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=CTF-Writeups&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=Networking-Security-Labs&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
 
 </div>
 
@@ -224,7 +224,7 @@ AES-256-GCM + RSA-4096 · PBKDF2 · attack resistance testing (bit-flipping, pad
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=linkedin&logoColor=8BE9FD)](https://linkedin.com/in/v-karthi-keyan)
-[![GitHub](https://img.shields.io/badge/-GitHub-282A36?style=flat-square&logo=github&logoColor=F8F8F2)](https://github.com/Karthiiio6)
+[![GitHub](https://img.shields.io/badge/-GitHub-282A36?style=flat-square&logo=github&logoColor=F8F8F2)](https://github.com/Karthiii06)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-282A36?style=flat-square&logo=tryhackme&logoColor=FF5555)](#)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-282A36?style=flat-square&logo=hackthebox&logoColor=50FA7B)](#)
 [![X](https://img.shields.io/badge/-X-282A36?style=flat-square&logo=x&logoColor=F8F8F2)](#)
