@@ -191,24 +191,6 @@ AES-256-GCM + RSA-4096 · PBKDF2 · attack resistance testing (bit-flipping, pad
 
 <br/>
 
-<!-- ===================== PINNED REPOS ===================== -->
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=VulnScan&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=CipherVault-Elite&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=Splunk-Detection-Rules&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=SOC-Automation-Scripts&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=CTF-Writeups&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthiii06&repo=Networking-Security-Labs&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" height="150"/>
-
-</div>
-
-> Replace the `repo=` values above with your actual repository names, and pin the same six on your GitHub profile (Customize your pins).
-
-<br/>
-
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## 🏆 Certifications & Achievements
 
