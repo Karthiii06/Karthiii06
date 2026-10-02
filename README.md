@@ -95,7 +95,7 @@ contact: LinkedIn - Email
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Karthiii06&hide_border=true&background=0a0000&stroke=8B0000&ring=C0392B&fire=FF1744&currStreakLabel=FF1744&sideNums=D8D8D8&sideLabels=D8D8D8&dates=8B0000" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Karthiii06&hide_border=true&background=0a0000&stroke=FF1744&ring=FF1744&fire=FF5252&currStreakNum=FFFFFF&currStreakLabel=FF5252&sideNums=F0F0F0&sideLabels=F0F0F0&dates=FF8A80" alt="Streak"/>
 
 <br/><br/>
 
